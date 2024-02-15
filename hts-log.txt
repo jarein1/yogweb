@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Apr 2023 14:00:32 at http://somnus.mediumra.re/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://somnus.mediumra.re/index.html -O1 "C:\Users\anike\OneDrive\Desktop\web\Yoga" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:01:06	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/css/themify-icons.css (from somnus.mediumra.re/index.html)
+14:01:08	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/css/custom.css (from somnus.mediumra.re/index.html)
+14:01:08	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/home-instagram.html (from somnus.mediumra.re/index.html)
+14:01:33	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/img/small3.jpg (from somnus.mediumra.re/index.html)
+14:01:36	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/"//cdn-images.mailchimp.com/embedcode/classic-081711.css" (from somnus.mediumra.re/index.html)
+14:01:37	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/utility.html (from somnus.mediumra.re/index.html)
+14:01:38	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/js/bootstrap.min.js (from somnus.mediumra.re/index.html)
+14:01:38	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/js/lightbox.min.js (from somnus.mediumra.re/index.html)
+14:01:39	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/fonts/glyphicons-halflings-regular.eot (from somnus.mediumra.re/css/bootstrap.css)
+14:01:39	Error: 	"Not Found" (404) at link somnus.mediumra.re/fonts/glyphicons-halflings-regular.eot? (from somnus.mediumra.re/css/bootstrap.css)
+14:01:39	Error: 	"Not Found" (404) at link somnus.mediumra.re/fonts/glyphicons-halflings-regular.woff (from somnus.mediumra.re/css/bootstrap.css)
+14:01:39	Error: 	"Not Found" (404) at link somnus.mediumra.re/fonts/glyphicons-halflings-regular.ttf (from somnus.mediumra.re/css/bootstrap.css)
+14:01:39	Error: 	"Not Found" (404) at link somnus.mediumra.re/fonts/glyphicons-halflings-regular.svg (from somnus.mediumra.re/css/bootstrap.css)
+14:01:50	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/img/lightbox/prev.png (from somnus.mediumra.re/css/lightbox.min.css)
+14:01:50	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/"//cdn-images.mailchimp.com/embedcode/classic-081711.css" (from somnus.mediumra.re/index.html)
+14:01:53	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/js/lightbox.min.js (from somnus.mediumra.re/index.html)
+14:01:53	Error: 	"Not Found" (404) at link somnus.mediumra.re/fonts/glyphicons-halflings-regular.eot (from somnus.mediumra.re/css/bootstrap.css)
+14:01:53	Warning: 	Retry after error -4 (No data (connection closed)) at link somnus.mediumra.re/img/lightbox/prev.png (from somnus.mediumra.re/css/lightbox.min.css)
+14:01:53	Error: 	"Not Found" (404) at link somnus.mediumra.re/"//cdn-images.mailchimp.com/embedcode/classic-081711.css" (from somnus.mediumra.re/index.html)
+14:01:53	Error: 	"Not Found" (404) at link somnus.mediumra.re/Popover requires tooltip.js (from somnus.mediumra.re/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 75 links scanned, 54 files written (2553062 bytes overall) [1737821 bytes received at 21454 bytes/sec], 1176979 bytes transferred using HTTP compression in 28 files, ratio 28%, 3.0 requests per connection
+(7 errors, 13 warnings, 0 messages)
